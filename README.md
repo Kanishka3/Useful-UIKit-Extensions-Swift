@@ -27,6 +27,8 @@ extension UILabel {
 }
 ```
 
+For more, check out this file: https://github.com/Kanishka3/Useful-UIKit-Extensions-Swift/blob/master/VisualElementsExtension.swift
+
 Here is a UIView extension which you may be frequently using in your UIViewController class: 
 
 ```Swift

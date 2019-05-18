@@ -2,7 +2,7 @@
 
 Here are some UIKit extension which can help you to accelerate your iOS app development just by adding some extension 
 
-
+_NOTE: I encourage everyone to write documentation of your code whenever possible. It can help a lot for a long run._
 ```Swift
 extension UILabel {
    /**

@@ -3,6 +3,7 @@
 
 import UIKit
 
+extension UIKit { 
 func applyParallexMotionEffect(_ view: UIView, magintude: CGFloat) -> UIMotionEffect{
     
     let xMotion = UIInterpolatingMotionEffect(keyPath: "x-motion", type: .tiltAlongHorizontalAxis)
@@ -26,4 +27,6 @@ func createGradientLayer(colors: [CGColor]) -> CGGradientLayer{
     gradientLayer.colors = colors
     
     return gradientLayer
+}
+    
 }
